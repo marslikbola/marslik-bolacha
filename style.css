@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(34, 104, 63);
+}
+
+
+h1 {
+  background-color: #311313;
+  color: white;
+  font-size: 60px;
+  width: 500px;
+  height: 100px;
+  padding: 10px;
+  margin-left: 30%;
+}
+
+.qora {
+  background-color: black;
+  border: 3px solid red;
+  width: 820px;
+  /* height: 400px; */
+  margin-left: 20%;
+  padding: 50px;
+}
+
+.yashil {
+  background-color: rgb(71, 151, 104);
+  /* width: 600px; */
+  /* height: 150px; */
+  margin: 10px;
+}
+p{
+  padding:40px ;
+}
